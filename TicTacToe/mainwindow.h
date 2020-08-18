@@ -25,8 +25,6 @@ public:
     ~MainWindow();
 
 
-
-
 private slots:
     void on_spot_00_clicked();
     void on_spot_01_clicked();
@@ -58,7 +56,5 @@ private:
     bool isMoveAvailable();
     void initializeGridWin();
 };
-
-
 
 #endif // MAINWINDOW_H

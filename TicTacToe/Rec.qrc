@@ -2,6 +2,13 @@
     <qresource prefix="/new/prefix1">
         <file>Iran System (52).jpg</file>
         <file>images.png</file>
+        <file>171-1712460_dark-background-42-333607-high-definition-wallpapers.jpg</file>
+        <file>gold-glitter-powder-splash-background_3247-103.jpg</file>
+        <file>one.jpg</file>
+        <file>two.jpg</file>
+        <file>unnamed.jpg</file>
+        <file>ASYHA0320_08.jpg</file>
+        <file>hubble-telescope-photo.jpg</file>
     </qresource>
     <qresource prefix="/new/prefix2"/>
 </RCC>
